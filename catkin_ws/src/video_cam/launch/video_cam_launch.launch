@@ -1,0 +1,8 @@
+<launch>
+    <node name="cam_pub" pkg="video_cam" type="cam_pub.py" output="screen">
+        <param name="param1" value="value1" /> <!-- Add any parameters if needed -->
+    </node>
+    <node name="cam_sub" pkg="video_cam" type="cam_sub.py" output="screen">
+        <param name="param2" value="value2" /> <!-- Add any parameters if needed -->
+    </node>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/video_camera/catkin_ws/install
+
+Name: video_cam
+Description: Description of video_cam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

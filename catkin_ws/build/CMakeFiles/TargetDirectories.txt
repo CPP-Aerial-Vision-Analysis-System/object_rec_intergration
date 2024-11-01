@@ -35,3 +35,11 @@
 /video_camera/catkin_ws/build/gtest/googletest/CMakeFiles/test.dir
 /video_camera/catkin_ws/build/gtest/googletest/CMakeFiles/gtest_main.dir
 /video_camera/catkin_ws/build/gtest/googletest/CMakeFiles/gtest.dir
+/video_camera/catkin_ws/build/video_cam/CMakeFiles/install/strip.dir
+/video_camera/catkin_ws/build/video_cam/CMakeFiles/install/local.dir
+/video_camera/catkin_ws/build/video_cam/CMakeFiles/install.dir
+/video_camera/catkin_ws/build/video_cam/CMakeFiles/list_install_components.dir
+/video_camera/catkin_ws/build/video_cam/CMakeFiles/rebuild_cache.dir
+/video_camera/catkin_ws/build/video_cam/CMakeFiles/edit_cache.dir
+/video_camera/catkin_ws/build/video_cam/CMakeFiles/test.dir
+/video_camera/catkin_ws/build/video_cam/CMakeFiles/_catkin_empty_exported_target.dir
